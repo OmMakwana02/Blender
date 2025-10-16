@@ -1,4 +1,4 @@
-# 🧊🔶 Blender-
+# 🧊🔶 Blender
 
 Welcome to my **Blender playground** — a space where I experiment, learn, and build cool 3D stuff for fun! ✨
 
